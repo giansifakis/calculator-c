@@ -24,3 +24,8 @@ When the program starts, it displays a menu:
 2. Subtraction
 3. Multiplication
 4. Division
+
+## Author
+
+**Giannis Sifakis**  
+[LinkedIn Profile](https://www.linkedin.com/in/giannis-sifakis-03b30b240/)
