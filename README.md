@@ -5,11 +5,6 @@ A simple menu-driven calculator program written in C.
 The program allows the user to perform basic arithmetic operations on two numbers:
 addition, subtraction, multiplication, and division.
 
-## Author
-
-**Ioannis Sifakis**  
-Student ID: **e13170**
-
 ## Features
 
 - Addition
